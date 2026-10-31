@@ -1,0 +1,13 @@
+{
+  "_meta": {
+    "list_maintained_on": "2026-10-31",
+    "note": "Editable reference list. Confirm each entry against the organisation's own website before relying on it. An organisation not in this list must never be shown as 'officially verified'."
+  },
+  "organisations": [
+    {"name": "Google", "keywords": ["google", "gmail"], "official_domains": ["google.com", "gmail.com"], "category": "technology", "verification_source": "Organisation's official website (maintainer to confirm)", "last_verified": "2026-10-31"},
+    {"name": "Microsoft", "keywords": ["microsoft", "outlook", "office365"], "official_domains": ["microsoft.com", "live.com", "office.com"], "category": "technology", "verification_source": "Organisation's official website (maintainer to confirm)", "last_verified": "2026-10-31"},
+    {"name": "Amazon", "keywords": ["amazon"], "official_domains": ["amazon.com", "amazon.in"], "category": "commerce", "verification_source": "Organisation's official website (maintainer to confirm)", "last_verified": "2026-10-31"},
+    {"name": "Apple", "keywords": ["apple", "icloud"], "official_domains": ["apple.com", "icloud.com"], "category": "technology", "verification_source": "Organisation's official website (maintainer to confirm)", "last_verified": "2026-10-31"},
+    {"name": "Government of India portals", "keywords": ["gov", "india"], "official_domains": ["gov.in", "nic.in"], "category": "government", "verification_source": "Government of India domain policy (maintainer to confirm)", "last_verified": "2026-10-31"}
+  ]
+}
